@@ -4,11 +4,9 @@ function Footer() {
   return (
     <div>
       <footer>
-        <p> Souleyman Alghabid</p>
+        <p> Adèle Manga</p>
         <p>
-          <a href="Souleymane.halid33@gmail.com">
-            Souleymane.halid33@gmail.com
-          </a>
+          <a href="adelemanga@gmail.com">adelemanga@gmail.com</a>
         </p>
       </footer>
     </div>
